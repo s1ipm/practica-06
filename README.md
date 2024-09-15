@@ -20,3 +20,9 @@ En la segunda materia, aquí vemos ejercicios de resolución de matrices, factor
 En la tercera materia, aquí se ve la cuestión de los inicios del internet y la tecnología, cómo es que se generan las conexiones en las redes de internet y su función, de aquí se aclara que se manejan los tipos de modelos de interconexión y cada una de sus funciones específicas.
 En la cuarta materia, estamos viendo lo que es el manejo de interfaces de la programación, líneas de comandos, y funciones básicas puestas en Git y GitHub como parte del conocimiento básico a ver para más adelante, además de ver a profundidad mejor los conceptos de los mismos para estár más familiarizados.
 
+ ---
+
+## Programación I
+### Jonathan Miranda.
+
+En la cuarta materia, estamos viendo lo que es el manejo de interfaces de la programación, líneas de comandos, y funciones básicas puestas en Git y GitHub como parte del conocimiento básico a ver para más adelante, además de ver a profundidad mejor los conceptos de los mismos para estár más familiarizados.
