@@ -22,3 +22,8 @@ En la tercera materia, aquí se ve la cuestión de los inicios del internet y la
 ### Jonathan Miranda.
 
 En la cuarta materia, estamos viendo lo que es el manejo de interfaces de la programación, líneas de comandos, y funciones básicas puestas en Git y GitHub como parte del conocimiento básico a ver para más adelante, además de ver a profundidad mejor los conceptos de los mismos para estár más familiarizados.
+---
+
+## Matemáticas.
+
+En esta quinta y última materia, se ha visto lo que son los tipos de números y como estos pueden ser representados de todas formas, además de aprender a saber cómo funcionan los números binarios y el manejo de funciones básicas, y de ello como se implementan en tabulaciones y gráficas.
